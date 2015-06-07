@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7195a400-fbfc-46f8-a2c5-efa90ff7b407" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$BenefitsService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$Employee.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$EmployeeEventManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$EmployeeHiringService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$EmployeeHiringServiceClient.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$PayrollService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$SalaryChangedChannel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$VolunteerService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$BenefitsService.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$BenefitsService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$Employee.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$EmployeeHiringService.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$EmployeeHiringService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$PayrollService.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$PayrollService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$VolunteerService.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents$VolunteerService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.class" afterPath="$PROJECT_DIR$/build/classes/main/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java" afterPath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event-channels-qbit.iml" afterPath="$PROJECT_DIR$/event-channels-qbit.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event-channels-qbit.ipr" afterPath="$PROJECT_DIR$/event-channels-qbit.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event-channels-qbit.iws" afterPath="$PROJECT_DIR$/event-channels-qbit.iws" />
     </list>
@@ -43,9 +42,16 @@
       <file leaf-file-name="EmployeeEventExampleUsingChannelsToSendEvents.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33181125" vertical-offset="1537" max-vertical-offset="3855">
-              <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="-4.16129" vertical-offset="3219" max-vertical-offset="3870">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#7976#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#5408#5409#0" expanded="true" />
+                <element signature="e#5448#5449#0" expanded="true" />
+                <element signature="e#5486#5487#0" expanded="true" />
+                <element signature="e#5527#5528#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -63,8 +69,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="720">
-              <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
+            <state vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="720">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -223,7 +229,7 @@
         <entry key="$PROJECT_DIR$/../echo-websocket" value="2854712998000" />
         <entry key="$PROJECT_DIR$/../echo-websocket1" value="2854119107000" />
         <entry key="$PROJECT_DIR$/../event-bus-system-qbit" value="2855156941000" />
-        <entry key="$PROJECT_DIR$" value="2855391743000" />
+        <entry key="$PROJECT_DIR$" value="2861406117000" />
         <entry key="$PROJECT_DIR$/../hello" value="2850826363000" />
         <entry key="$PROJECT_DIR$/../hello-test" value="2850825122000" />
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit" value="2850936640000" />
@@ -265,22 +271,24 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-vertx/0.7.3-SNAPSHOT/qbit-vertx-0.7.3-SNAPSHOT-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-vertx/0.7.3-SNAPSHOT/qbit-vertx-0.7.3-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.8.6/ee2565b3af4fefef9ed89a63ed582b23408a1905/qbit-vertx-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-vertx/0.8.6/888955db708837e2d6f83107ec36af0d682fb442/qbit-vertx-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/decd76e2c461157804473468bbdc6b8eb6d6121b/logback-classic-1.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/b316e9737eea25e9ddd6d88eaeee76878045c6b2/logback-classic-1.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.8.6/aeebf96e872603be7f9fccb1e8481133ee2fc7b0/qbit-boon-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.8.6/89c24733362299e2d126e4e7e8fbe17a5bbbda4b/qbit-boon-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/2.1.1/1ea5c4b0836d198d7ea1893d4fb0b42b2ba70532/vertx-core-2.1.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-core/2.1.1/8b17cc1a79db4edfd067542cbd5552b45a274143/vertx-core-2.1.1.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-core/0.7.3-SNAPSHOT/qbit-core-0.7.3-SNAPSHOT-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-core/0.7.3-SNAPSHOT/qbit-core-0.7.3-SNAPSHOT.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-boon/0.7.3-SNAPSHOT/qbit-boon-0.7.3-SNAPSHOT-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/qbit-boon/0.7.3-SNAPSHOT/qbit-boon-0.7.3-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.8.6/1f522fc7c058b3ebbbc7aca8e89b7f39e0c83ecf/qbit-core-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.8.6/239efc72fdbc2c67d777cd8ca8bec3604063f57e/qbit-core-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-platform/2.1.1/3c3a1ca126e363054b4c224783a6f0eafe1800cd/vertx-platform-2.1.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.vertx/vertx-platform/2.1.1/bdcd708592bf2de9f3a16f2185220bb55204f09d/vertx-platform-2.1.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/502e1c764542fe747896c1dc04f023acfe0e5cbc/logback-core-1.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/2d23694879c2c12f125dac5076bdfd5d771cc4cb/logback-core-1.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.5/1eaf110e6b5d6458f3b0a95d492ac9143c9bcc85/boon-json-0.5.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.5/3042f3d6937c59cae3233a4aee4da318554af561/boon-json-0.5.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/274324c17714564d64e566ebe8bdb0d225a67295/jackson-databind-2.2.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/484301cc4a756b0c9f2d77448ec51d46d8905a25/jackson-core-2.2.2-sources.jar" />
@@ -289,8 +297,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.20.Final/8291aae0641db283f1cf7ce94dad40eb815591b9/netty-all-4.0.20.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.20.Final/3364c57b80d9805c5522ab5b8a2ba15da8cd9ea9/netty-all-4.0.20.Final.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/boon/0.7.3-SNAPSHOT/boon-0.7.3-SNAPSHOT-sources.jar" />
-                            <option value="$MAVEN_REPOSITORY$/io/advantageous/qbit/boon/0.7.3-SNAPSHOT/boon-0.7.3-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.5/d68d2458d1b4a1103de10f8160942d15da61e768/boon-reflekt-0.5.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.5/3ae09d0ad727ee0c36b3c87e4a8885e89afceee9/boon-reflekt-0.5.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/a6017c0c873de183cf2ed3b419e52829af67fbea/jackson-annotations-2.2.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar" />
                           </list>
@@ -372,7 +380,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="1112" />
+    <option name="height" value="1106" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -398,6 +406,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -480,7 +489,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -580,6 +588,19 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -606,19 +627,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -700,7 +708,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1112" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1106" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -714,15 +722,15 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33039215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33037475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33037475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -757,9 +765,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="3855">
-          <caret line="31" column="53" selection-start-line="0" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="3795">
+          <caret line="115" column="60" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#7976#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#5408#5409#0" expanded="true" />
+            <element signature="e#5448#5449#0" expanded="true" />
+            <element signature="e#5486#5487#0" expanded="true" />
+            <element signature="e#5527#5528#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -774,64 +789,39 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="720">
-          <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="3855">
-          <caret line="128" column="6" selection-start-line="128" selection-start-column="6" selection-end-line="128" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="720">
-          <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1485" max-vertical-offset="3390">
-          <caret line="126" column="0" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="720">
-          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="720">
-          <caret line="24" column="87" selection-start-line="24" selection-start-column="87" selection-end-line="24" selection-end-column="87" />
+          <caret line="24" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="657">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/EmployeeEventExampleUsingChannelsToSendEvents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33181125" vertical-offset="1537" max-vertical-offset="3855">
-          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="-4.16129" vertical-offset="3219" max-vertical-offset="3870">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#7976#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#5408#5409#0" expanded="true" />
+            <element signature="e#5448#5449#0" expanded="true" />
+            <element signature="e#5486#5487#0" expanded="true" />
+            <element signature="e#5527#5528#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

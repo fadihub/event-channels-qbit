@@ -45,7 +45,8 @@ public class EmployeeEventExampleUsingChannelsToSendEvents {
 
 
         /* Create you own private event bus. */
-        EventManager privateEventBus = QBit.factory().createEventManager();
+        EventManager privateEventBus = QBit.factory().createEventManager("");
+
 
         /* Create a service queue for this event bus. */
         ServiceQueue privateEventBusServiceQueue = serviceBuilder()
