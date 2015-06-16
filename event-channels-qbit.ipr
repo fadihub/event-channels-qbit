@@ -35,36 +35,40 @@
       <map>
         <entry key="$PROJECT_DIR$/../../hello" value="2848407170000" />
         <entry key="$PROJECT_DIR$/../admin" value="2847591674000" />
-        <entry key="$PROJECT_DIR$/../cassandra-crud" value="2865673072000" />
-        <entry key="$PROJECT_DIR$/../echo-websocket" value="2855496804000" />
+        <entry key="$PROJECT_DIR$/../cassandra-crud" value="2865891947000" />
+        <entry key="$PROJECT_DIR$/../cassandra-spark" value="2865891983000" />
+        <entry key="$PROJECT_DIR$/../echo-websocket" value="2861459677000" />
         <entry key="$PROJECT_DIR$/../echo-websocket1" value="2854119107000" />
-        <entry key="$PROJECT_DIR$/../event-bus-system-qbit" value="2855156941000" />
+        <entry key="$PROJECT_DIR$/../event-bus-system-qbit" value="2861295805000" />
         <entry key="$PROJECT_DIR$" value="2861406117000" />
-        <entry key="$PROJECT_DIR$/../hello" value="2850826363000" />
+        <entry key="$PROJECT_DIR$/../hello" value="2857933485000" />
         <entry key="$PROJECT_DIR$/../hello-test" value="2850825122000" />
-        <entry key="$PROJECT_DIR$/../inproc-microservice-qbit" value="2850936640000" />
+        <entry key="$PROJECT_DIR$/../inproc-microservice-qbit" value="2858038193000" />
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit-old" value="2848638876000" />
         <entry key="$PROJECT_DIR$/../microservices-using-qbit" value="2862694795000" />
         <entry key="$PROJECT_DIR$/../qbit" value="11410137541000" />
         <entry key="$PROJECT_DIR$/../qbit-with-spring-boot" value="2860887063000" />
         <entry key="$PROJECT_DIR$/../qbit-with-spring-boot1" value="2854358008000" />
         <entry key="$PROJECT_DIR$/../qbit-worker-callbacks" value="2850317898000" />
+        <entry key="$PROJECT_DIR$/../research/cassandra-spark" value="2866369252000" />
+        <entry key="$PROJECT_DIR$/../research/todo-solr-5.1" value="2867758546000" />
         <entry key="$PROJECT_DIR$/../simpel-rest-server" value="2847288908000" />
-        <entry key="$PROJECT_DIR$/../simple-rest-server" value="2849944096000" />
+        <entry key="$PROJECT_DIR$/../simple-rest-server" value="2867459241000" />
         <entry key="$PROJECT_DIR$/../simple-rest-server-with-uri-params" value="2860853001000" />
         <entry key="$PROJECT_DIR$/../simple-rest-server-with-uri-params1" value="2854289707000" />
-        <entry key="$PROJECT_DIR$/../todo-list-app" value="2858217467000" />
+        <entry key="$PROJECT_DIR$/../spark-cassandra" value="2868816547000" />
+        <entry key="$PROJECT_DIR$/../todo-list-app" value="2868188015000" />
         <entry key="$PROJECT_DIR$/../todo-list-app-old" value="2849262889000" />
         <entry key="$PROJECT_DIR$/../todo-list-app1" value="2849262889000" />
-        <entry key="$PROJECT_DIR$/../todo-service" value="2844115048000" />
-        <entry key="$PROJECT_DIR$/../todo-service-websocket-client" value="2848623563000" />
-        <entry key="$PROJECT_DIR$/../todo-solr-5.1" value="2863927091000" />
-        <entry key="$PROJECT_DIR$/../todo-with-solr" value="2863282029000" />
+        <entry key="$PROJECT_DIR$/../todo-service" value="2860285141000" />
+        <entry key="$PROJECT_DIR$/../todo-service-websocket-client" value="2855791702000" />
+        <entry key="$PROJECT_DIR$/../todo-solr-5.1" value="2864342883000" />
+        <entry key="$PROJECT_DIR$/../todo-with-solr" value="2863282161000" />
         <entry key="$PROJECT_DIR$/../todowithsolr" value="2863212826000" />
         <entry key="$PROJECT_DIR$/../usinggradleplugin" value="2862641130000" />
-        <entry key="$PROJECT_DIR$/../worker-callback-blocking" value="2851866580000" />
+        <entry key="$PROJECT_DIR$/../worker-callback-blocking" value="2858892226000" />
         <entry key="$PROJECT_DIR$/../worker-callback-nonblockin2" value="2853586063000" />
-        <entry key="$PROJECT_DIR$/../worker-callback-nonblocking" value="2853586063000" />
+        <entry key="$PROJECT_DIR$/../worker-callback-nonblocking" value="2860527641000" />
         <entry key="$USER_HOME$/expamples/qbit/todo-service" value="2841684243000" />
         <entry key="$USER_HOME$/github/hello" value="2847747936000" />
         <entry key="$USER_HOME$/github/inproc-microservice-qbit" value="2848638876000" />
@@ -72,6 +76,7 @@
         <entry key="$USER_HOME$/github/simple-rest-server" value="2846758355000" />
         <entry key="$USER_HOME$/github/testing examples from git hub/todo-service" value="2853227638000" />
         <entry key="$USER_HOME$/github/updated_examples/todo-service" value="2853110060000" />
+        <entry key="$USER_HOME$/qbit" value="11472726472000" />
         <entry key="$USER_HOME$/test" value="2847031320000" />
       </map>
     </option>
@@ -131,19 +136,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -170,6 +162,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -216,21 +221,17 @@
   <component name="libraryTable">
     <library name="Gradle: ch.qos.logback:logback-classic:1.1.2">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/b316e9737eea25e9ddd6d88eaeee76878045c6b2/logback-classic-1.1.2.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.1.2/logback-classic-1.1.2.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.2/decd76e2c461157804473468bbdc6b8eb6d6121b/logback-classic-1.1.2-sources.jar!/" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="Gradle: ch.qos.logback:logback-core:1.1.2">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/2d23694879c2c12f125dac5076bdfd5d771cc4cb/logback-core-1.1.2.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.2/logback-core-1.1.2.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/502e1c764542fe747896c1dc04f023acfe0e5cbc/logback-core-1.1.2-sources.jar!/" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.2.2">
       <CLASSES>
@@ -351,12 +352,10 @@
     </library>
     <library name="Gradle: org.hamcrest:hamcrest-core:1.1">
       <CLASSES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/860340562250678d1a344907ac75754e259cdb14/hamcrest-core-1.1.jar!/" />
+        <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.1/2ccf1154d1a8936042a8a742dc3e611d02ac7213/hamcrest-core-1.1-sources.jar!/" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="Gradle: org.slf4j:slf4j-api:1.7.12">
       <CLASSES>
